@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\Snake Project\bin\Debug\Snake Project.exe.config
+C:\Users\LENOVO\source\repos\Snake Project\bin\Debug\Snake Project.exe
+C:\Users\LENOVO\source\repos\Snake Project\bin\Debug\Snake Project.pdb
+C:\Users\LENOVO\source\repos\Snake Project\obj\Debug\Snake Project.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Snake Project\obj\Debug\Snake_Project.Form1.resources
+C:\Users\LENOVO\source\repos\Snake Project\obj\Debug\Snake_Project.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Snake Project\obj\Debug\Snake Project.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Snake Project\obj\Debug\Snake Project.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Snake Project\obj\Debug\Snake Project.exe
+C:\Users\LENOVO\source\repos\Snake Project\obj\Debug\Snake Project.pdb
+C:\Users\LENOVO\source\repos\Snake Project\bin\Debug\Guna.UI2.dll
+C:\Users\LENOVO\source\repos\Snake Project\obj\Debug\Snake Project.csproj.CopyComplete
